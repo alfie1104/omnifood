@@ -121,6 +121,7 @@ Instead, 1rem (root font size) = 1em (current font size) = 16px*/
   /* MOBILE NAVIGATION */
   .btn-mobile-nav {
     display: block;
+    z-index: 9999;
   }
 
   .main-nav {
